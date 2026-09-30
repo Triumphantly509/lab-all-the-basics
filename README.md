@@ -21,6 +21,26 @@
 - <div>
   <img width="611" height="446" alt="image" src="https://github.com/user-attachments/assets/2455ed55-4db2-4612-9a89-b7cd53a4122c" />
 </div>
+- Test Root Guard
+- On switch 13, let it claim the root bridge by setting his priority to 0
+<div
+  <img width="507" height="124" alt="image" src="https://github.com/user-attachments/assets/75933184-6816-4839-8ccb-c4b7116ef221" />
+</div>
+-On the MLS switch see its behavior
+<div>
+  <img width="612" height="52" alt="image" src="https://github.com/user-attachments/assets/d541f7a5-dbd6-4574-a67b-ac588ef62d68" />
+</div>
+
+-VLan 10 placed into root inconsistent (broken)
+<div>
+  <img width="629" height="151" alt="image" src="https://github.com/user-attachments/assets/a7ce98bf-f68d-4323-8a84-2627e1628520" />
+</div>
+
+- to fix the issue, for VLAN 10 to be in a FWD state again
+<div>
+  <img width="492" height="224" alt="image" src="https://github.com/user-attachments/assets/1c3ed38e-4d82-4e7e-acd8-a5f92527a948" />
+</div>
+
 - Configure Link between R1 and MLS as Layer 3
 - Conifgure Port- security on the access ports of all Access Switches (ASW1 and ASW2)
 <div>
