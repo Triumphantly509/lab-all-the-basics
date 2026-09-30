@@ -36,6 +36,11 @@
     <img width="475" height="209" alt="image" src="https://github.com/user-attachments/assets/28017b52-6dad-4c76-8425-cae3da6bdd3d" />
   </div>
   
+  - interface status
+  <div>
+    <img width="604" height="170" alt="image" src="https://github.com/user-attachments/assets/c235b42f-6abd-4b99-8b38-aa7346079730" />
+  </div>
+  
 - DO NOT USE VTP
 
 - MEET ALL CONDITIONS AND PC's should be able to Ping each other
