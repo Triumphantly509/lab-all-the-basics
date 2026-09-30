@@ -21,9 +21,11 @@
 - <div>
   <img width="611" height="446" alt="image" src="https://github.com/user-attachments/assets/2455ed55-4db2-4612-9a89-b7cd53a4122c" />
 </div>
-- onfigure Link between R1 and MLS as Layer 3
+- Configure Link between R1 and MLS as Layer 3
 - Conifgure Port- security on the access ports of all Access Switches (ASW1 and ASW2)
-
+<div>
+  <img width="628" height="387" alt="image" src="https://github.com/user-attachments/assets/7333f5ea-d1b2-4dbb-8e86-3884b69345c4" />
+</div>
 - DO NOT USE VTP
 
 - MEET ALL CONDITIONS AND PC's should be able to Ping each other
