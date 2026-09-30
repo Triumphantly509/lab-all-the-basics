@@ -26,6 +26,16 @@
 <div>
   <img width="628" height="387" alt="image" src="https://github.com/user-attachments/assets/7333f5ea-d1b2-4dbb-8e86-3884b69345c4" />
 </div>
+
+- Port security test
+  <div>
+    <img width="1273" height="686" alt="image" src="https://github.com/user-attachments/assets/abe516da-d2a1-4acd-b719-c5cab123b4ba" />
+  </div>
+- port-security interface
+  <div>
+    <img width="475" height="209" alt="image" src="https://github.com/user-attachments/assets/28017b52-6dad-4c76-8425-cae3da6bdd3d" />
+  </div>
+  
 - DO NOT USE VTP
 
 - MEET ALL CONDITIONS AND PC's should be able to Ping each other
