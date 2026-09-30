@@ -6,7 +6,21 @@
 - Configure VLAN 999 as BlackHole VLAN
 - Move all unused ports to on Switches to VLAN 999 AND SHUTDOWN
 - Conifgure Portfast and BPDUGuard on the PC ports of all Access Switches
+  <div>
+    <img width="602" height="112" alt="image" src="https://github.com/user-attachments/assets/99d0eee3-cc14-47fa-acf5-b51c72daf1e4" />
+  </div>
+  - BPDUGuard
+  <div>
+    <img width="509" height="123" alt="image" src="https://github.com/user-attachments/assets/d9bf34cb-352a-4fe9-96e3-fd0c50f154f6" />
+  </div>
+  - Result
+  <div>
+    <img width="611" height="168" alt="image" src="https://github.com/user-attachments/assets/4e4669b7-605d-4865-846d-4c1ee3a4a75e" />
+  </div>
 - Configure RootGuard on MLS
+- <div>
+  <img width="611" height="446" alt="image" src="https://github.com/user-attachments/assets/2455ed55-4db2-4612-9a89-b7cd53a4122c" />
+</div>
 - onfigure Link between R1 and MLS as Layer 3
 - Conifgure Port- security on the access ports of all Access Switches (ASW1 and ASW2)
 
