@@ -29,5 +29,5 @@
 - MEET ALL CONDITIONS AND PC's should be able to Ping each other
 
 <div>
-  <img width="892" height="640" alt="image" src="https://github.com/user-attachments/assets/933622a7-50db-4d48-9ba0-f6c33b3d9333" />
+  <img width="884" height="637" alt="image" src="https://github.com/user-attachments/assets/2b3fab3b-1724-437d-af27-d068df5b4c74" />
 </div>
